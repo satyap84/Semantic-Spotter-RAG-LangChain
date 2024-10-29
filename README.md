@@ -1,5 +1,3 @@
-# Semantic-Spotter-RAG-LangChain
-
 # Retrieval-Augmented Generation(RAG) Based Chatbot implemented using Langchain to search information in Life Insurance Document.
 ## Overview
 This project builds a Retrieval-Augmented Generation (RAG) chatbot using LangChain to effectively answer user queries baseThis project builds a Retrieval-Augmented Generation (RAG) chatbot using LangChain to automate the process of extracting and answering questions based on life insurance policies. The system combines document processing, vector-based retrieval, caching, and generative AI to efficiently generate concise answers. LangChain simplifies the integration of these components by providing a modular framework to connect document loaders, vector databases, language models, and custom chains.
